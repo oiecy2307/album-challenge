@@ -1,0 +1,31 @@
+.Album-Ceo {
+    background-color: green;
+    border: solid;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  
+  }
+
+  .Album-Sr {
+    background-color: blue;
+    border: dotted;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .Album-Jr {
+    background-color:purple;
+    border: dashed;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+  }
